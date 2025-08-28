@@ -1,4 +1,3 @@
-````markdown
 # Simple Document Text Extractor using `od-parse`
 
 ## Project Summary
